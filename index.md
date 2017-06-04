@@ -5,6 +5,6 @@ This calendar is maintained by [United Thru Action](http://unitedthruaction.com)
 <iframe src="https://calendar.google.com/calendar/embed?src=e4qncbtpk6r38994jgkiqga1ps%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
-![UnitedThruAction logo](unitedthruaction.png | width=200)
+<img src="unitedthruaction.png" alt="United Thru Action logo" width="200">
 
 Visit our [Facebook page.](http://www.facebook.com/upcomingaction)
