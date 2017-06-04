@@ -1,6 +1,3 @@
----
----
-
 Want to get involved in resistance activities in New York Congressional District 19?  Now you can.
 
 This calendar is maintained by [United Thru Action](http://unitedthruaction.com).  [Email us](mailto:turnnyblue@gmail.com) if you have an event you want to include.
