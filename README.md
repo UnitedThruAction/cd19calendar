@@ -7,7 +7,7 @@ View it online at [unitedthruaction.github.io/cd19calendar](http://unitedthruact
 
 To permission new people to add/remove events from the calendar:
 
-* Go to Google Calendar: [http://calendar.google.com] and login with your Google account if necessary
+* Go to Google Calendar: http://calendar.google.com and login with your Google account if necessary
 * Find the calendar “CD 19 Campaign Calendar” on the left hand side and click the drop-down arrow
 * Choose Calendar settings
 * At the top, click Share this Calendar
